@@ -3,4 +3,5 @@
 *.pkl
 *.fa.gz
 *.pth
+results/*.jpg
 .ipynb_checkpoints/
