@@ -4,4 +4,5 @@
 *.fa.gz
 *.pth
 results/*.jpg
+data/mm10
 .ipynb_checkpoints/
