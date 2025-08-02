@@ -1,3 +1,6 @@
-data/
-results/
-models/
+*.fasta
+*.npz
+*.pkl
+*.fa.gz
+*.pth
+.ipynb_checkpoints/
