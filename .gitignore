@@ -3,6 +3,8 @@
 *.pkl
 *.fa.gz
 *.pth
-results/*.jpg
+results/
 data/mm10
+data/inputs/mm10*
+data/inputs/*c.bed
 .ipynb_checkpoints/
