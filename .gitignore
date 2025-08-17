@@ -4,8 +4,10 @@
 *.fa.gz
 *.pth
 results/
-data/mm10
+data/mm10/*gz
+data/mm10/*fa
 data/inputs/mm10*
 data/inputs/*c.bed
 .ipynb_checkpoints/
 models/
+*backup.ipynb
