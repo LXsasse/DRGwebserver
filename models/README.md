@@ -1,6 +1,7 @@
 # Download models from
 
-Eventually, we will put the models on zenodo or so
+Currently model files can be found at https://drive.google.com/drive/folders/1i6M2mcqj2CzM3E8_znEJU8ky4tiw5pW0?dmr=1&ec=wgc-drive-globa
+Eventually, we will put the models on zenodo or figshare
 
 # Models
 
